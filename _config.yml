@@ -1,0 +1,11 @@
+# Site settings
+title: Umm Title
+description: > # this means to ignore newlines until "baseurl:"
+ Lack of Creative description description.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://DanielleFraboni.github.io" # the base hostname & protocol for your site
+twitter_username: danieeelleio
+github_username:  DanielleFraboni
+
+# Build settings
+markdown: kramdown
