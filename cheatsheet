@@ -1,0 +1,15 @@
+jekyll commands
+
+jekyll serve --host $IP --port $PORT --watch
+
+stop serving: 
+ctrl-c
+
+TO SEE LIVE PREVIEW:
+https://daniellefraboni_github_io-c9-daniellefraboni.c9.io
+
+GIT COMMANDS
+git add -A 
+git commit -m "desc about commit"
+git push
+git status (tells you what's going on in the staging area, the state of your workspace)
