@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Danielle Shubert Fraboni
+title: About
 permalink: /about/
 ---
 Danielle Shubert Fraboni graduated from St. John's University with a Bachelor's of Science in Communication Arts.
