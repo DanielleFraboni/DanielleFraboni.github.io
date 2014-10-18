@@ -1,11 +1,13 @@
 # Site settings
 title: Danielle Shubert Photography
+email: 
 description: > # this means to ignore newlines until "baseurl:"
-  Images made by Danielle Shubert Fraboni
+  Images created by Danielle Shubert Fraboni
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://DanielleFraboni.github.io" # the base hostname & protocol for your site
+url: "DanielleFraboni.github.io" # the base hostname & protocol for your site
 twitter_username: danieeelleio
 github_username:  DanielleFraboni
 
 # Build settings
 markdown: kramdown
+permalink: pretty

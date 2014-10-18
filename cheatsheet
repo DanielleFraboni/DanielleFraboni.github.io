@@ -1,5 +1,6 @@
 jekyll commands
 
+TO DEVELOP
 jekyll serve --host $IP --port $PORT --watch
 
 stop serving: 
