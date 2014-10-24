@@ -1,4 +1,0 @@
----
----
-
-Steve likes goldfish.
