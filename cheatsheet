@@ -1,7 +1,8 @@
 jekyll commands
 
 TO DEVELOP
-jekyll serve --host $IP --port $PORT --watch
+jekyll serve --hos
+t $IP --port $PORT --watch
 
 stop serving: 
 ctrl-c

@@ -17,17 +17,14 @@ cellColor="#949494";
 <script type="text/javascript" src="./resources/js/live_update.js">
 </script>
 
-
-<div id="wrapper_thumb">
-  
-  
-  <div id="sitetitle">
-    <h1 onclick="clickTarget( this, 'metadata.siteTitle.value' );" id="metadata.siteTitle.value" class="textColor">People</h1>
-  </div>
-  <div id="collectionHeader">
+<div id="collectionHeader">
     <h1 onclick="clickTarget( this, 'metadata.groupTitle.value' );" id="metadata.groupTitle.value" class="textColor">Humans of the world</h1>
     <p onclick="clickTarget( this, 'metadata.groupDescription.value' );" id="metadata.groupDescription.value" class="textColor"></p>
   </div>
+  
+<div id="wrapper_thumb">
+  
+  
 
 
   
@@ -35,71 +32,71 @@ cellColor="#949494";
     <div id="index">
               
 		
-                                        <div class="thumbnail borderTopLeft" onmouseover="window.gridOn( this.parentNode, 'ID17412_thumb' );" onmouseout="window.gridOff( this.parentNode );" onclick="window.location.href='content/face_large.html'">
+                                        <div class="thumbnail borderTopLeft" onmouseover="window.gridOn( this.parentNode, 'ID397_thumb' );" onmouseout="window.gridOff( this.parentNode );" onclick="window.location.href='content/face-2_large.html'">
             <div class="itemNumber">1</div>
-            <a href="content/face_large.html" onclick="return needThumbImgLink;">
+            <a href="content/face-2_large.html" onclick="return needThumbImgLink;">
             <div style="margin-left:15px; margin-top:31px;">
-                                <img src="content/images/thumb/face.jpg" id="ID17412_thumb" alt="" class="thumb" />
+                                <img src="content/images/thumb/face-2.jpg" id="ID397_thumb" alt="" class="thumb" />
                               </div>
             </a> </div>
-                  <div class="thumbnail borderTopLeft" onmouseover="window.gridOn( this.parentNode, 'ID17427_thumb' );" onmouseout="window.gridOff( this.parentNode );" onclick="window.location.href='content/banana_large.html'">
+                  <div class="thumbnail borderTopLeft" onmouseover="window.gridOn( this.parentNode, 'ID415_thumb' );" onmouseout="window.gridOff( this.parentNode );" onclick="window.location.href='content/2knives_large.html'">
             <div class="itemNumber">2</div>
-            <a href="content/banana_large.html" onclick="return needThumbImgLink;">
-            <div style="margin-left:15px; margin-top:29px;">
-                                <img src="content/images/thumb/banana.jpg" id="ID17427_thumb" alt="" class="thumb" />
+            <a href="content/2knives_large.html" onclick="return needThumbImgLink;">
+            <div style="margin-left:15px; margin-top:36px;">
+                                <img src="content/images/thumb/2knives.jpg" id="ID415_thumb" alt="" class="thumb" />
                               </div>
             </a> </div>
-                  <div class="thumbnail borderTopLeft borderRight" onmouseover="window.gridOn( this.parentNode, 'ID17445_thumb' );" onmouseout="window.gridOff( this.parentNode );" onclick="window.location.href='content/boyz_large.html'">
+                  <div class="thumbnail borderTopLeft borderRight" onmouseover="window.gridOn( this.parentNode, 'ID762_thumb' );" onmouseout="window.gridOff( this.parentNode );" onclick="window.location.href='content/menmarketfaces-2_large.html'">
             <div class="itemNumber">3</div>
-            <a href="content/boyz_large.html" onclick="return needThumbImgLink;">
-            <div style="margin-left:15px; margin-top:36px;">
-                                <img src="content/images/thumb/boyz.jpg" id="ID17445_thumb" alt="" class="thumb" />
-                              </div>
-            </a> </div>
-                  <div class="clear">
-          </div>
-                  <div class="thumbnail borderTopLeft" onmouseover="window.gridOn( this.parentNode, 'ID17459_thumb' );" onmouseout="window.gridOff( this.parentNode );" onclick="window.location.href='content/menmarketfaces_large.html'">
-            <div class="itemNumber">4</div>
-            <a href="content/menmarketfaces_large.html" onclick="return needThumbImgLink;">
+            <a href="content/menmarketfaces-2_large.html" onclick="return needThumbImgLink;">
             <div style="margin-left:19px; margin-top:15px;">
-                                <img src="content/images/thumb/menmarketfaces.jpg" id="ID17459_thumb" alt="" class="thumb" />
-                              </div>
-            </a> </div>
-                  <div class="thumbnail borderTopLeft" onmouseover="window.gridOn( this.parentNode, 'ID17473_thumb' );" onmouseout="window.gridOff( this.parentNode );" onclick="window.location.href='content/IMG_2983_copy_large.html'">
-            <div class="itemNumber">5</div>
-            <a href="content/IMG_2983_copy_large.html" onclick="return needThumbImgLink;">
-            <div style="margin-left:15px; margin-top:36px;">
-                                <img src="content/images/thumb/IMG_2983_copy.jpg" id="ID17473_thumb" alt="" class="thumb" />
-                              </div>
-            </a> </div>
-                  <div class="thumbnail borderTopLeft borderRight" onmouseover="window.gridOn( this.parentNode, 'ID17493_thumb' );" onmouseout="window.gridOff( this.parentNode );" onclick="window.location.href='content/IMG_3246_copy_large.html'">
-            <div class="itemNumber">6</div>
-            <a href="content/IMG_3246_copy_large.html" onclick="return needThumbImgLink;">
-            <div style="margin-left:15px; margin-top:23px;">
-                                <img src="content/images/thumb/IMG_3246_copy.jpg" id="ID17493_thumb" alt="" class="thumb" />
+                                <img src="content/images/thumb/menmarketfaces-2.jpg" id="ID762_thumb" alt="" class="thumb" />
                               </div>
             </a> </div>
                   <div class="clear">
           </div>
-                  <div class="thumbnail borderTopLeft borderBottom" onmouseover="window.gridOn( this.parentNode, 'ID17508_thumb' );" onmouseout="window.gridOff( this.parentNode );" onclick="window.location.href='content/yogurtgirls2_large.html'">
+                  <div class="thumbnail borderTopLeft" onmouseover="window.gridOn( this.parentNode, 'ID433_thumb' );" onmouseout="window.gridOff( this.parentNode );" onclick="window.location.href='content/IMG_2983_copy-2_large.html'">
+            <div class="itemNumber">4</div>
+            <a href="content/IMG_2983_copy-2_large.html" onclick="return needThumbImgLink;">
+            <div style="margin-left:15px; margin-top:36px;">
+                                <img src="content/images/thumb/IMG_2983_copy-2.jpg" id="ID433_thumb" alt="" class="thumb" />
+                              </div>
+            </a> </div>
+                  <div class="thumbnail borderTopLeft" onmouseover="window.gridOn( this.parentNode, 'ID447_thumb' );" onmouseout="window.gridOff( this.parentNode );" onclick="window.location.href='content/2gal_large.html'">
+            <div class="itemNumber">5</div>
+            <a href="content/2gal_large.html" onclick="return needThumbImgLink;">
+            <div style="margin-left:15px; margin-top:26px;">
+                                <img src="content/images/thumb/2gal.jpg" id="ID447_thumb" alt="" class="thumb" />
+                              </div>
+            </a> </div>
+                  <div class="thumbnail borderTopLeft borderRight" onmouseover="window.gridOn( this.parentNode, 'ID461_thumb' );" onmouseout="window.gridOff( this.parentNode );" onclick="window.location.href='content/IMG_3143_copy_large.html'">
+            <div class="itemNumber">6</div>
+            <a href="content/IMG_3143_copy_large.html" onclick="return needThumbImgLink;">
+            <div style="margin-left:15px; margin-top:36px;">
+                                <img src="content/images/thumb/IMG_3143_copy.jpg" id="ID461_thumb" alt="" class="thumb" />
+                              </div>
+            </a> </div>
+                  <div class="clear">
+          </div>
+                  <div class="thumbnail borderTopLeft borderBottom" onmouseover="window.gridOn( this.parentNode, 'ID780_thumb' );" onmouseout="window.gridOff( this.parentNode );" onclick="window.location.href='content/yogurtgirls3_large.html'">
             <div class="itemNumber">7</div>
-            <a href="content/yogurtgirls2_large.html" onclick="return needThumbImgLink;">
-            <div style="margin-left:18px; margin-top:15px;">
-                                <img src="content/images/thumb/yogurtgirls2.jpg" id="ID17508_thumb" alt="" class="thumb" />
+            <a href="content/yogurtgirls3_large.html" onclick="return needThumbImgLink;">
+            <div style="margin-left:15px; margin-top:35px;">
+                                <img src="content/images/thumb/yogurtgirls3.jpg" id="ID780_thumb" alt="" class="thumb" />
                               </div>
             </a> </div>
-                  <div class="thumbnail borderTopLeft borderBottom" onmouseover="window.gridOn( this.parentNode, 'ID17522_thumb' );" onmouseout="window.gridOff( this.parentNode );" onclick="window.location.href='content/keke_large.html'">
+                  <div class="thumbnail borderTopLeft borderBottom" onmouseover="window.gridOn( this.parentNode, 'ID482_thumb' );" onmouseout="window.gridOff( this.parentNode );" onclick="window.location.href='content/yogurtgirls2-2_large.html'">
             <div class="itemNumber">8</div>
-            <a href="content/keke_large.html" onclick="return needThumbImgLink;">
-            <div style="margin-left:15px; margin-top:35px;">
-                                <img src="content/images/thumb/keke.jpg" id="ID17522_thumb" alt="" class="thumb" />
+            <a href="content/yogurtgirls2-2_large.html" onclick="return needThumbImgLink;">
+            <div style="margin-left:18px; margin-top:15px;">
+                                <img src="content/images/thumb/yogurtgirls2-2.jpg" id="ID482_thumb" alt="" class="thumb" />
                               </div>
             </a> </div>
-                  <div class="thumbnail borderTopLeft borderRight borderBottom" onmouseover="window.gridOn( this.parentNode, 'ID17536_thumb' );" onmouseout="window.gridOff( this.parentNode );" onclick="window.location.href='content/wateronheads_large.html'">
+                  <div class="thumbnail borderTopLeft borderRight borderBottom" onmouseover="window.gridOn( this.parentNode, 'ID497_thumb' );" onmouseout="window.gridOff( this.parentNode );" onclick="window.location.href='content/keke-2_large.html'">
             <div class="itemNumber">9</div>
-            <a href="content/wateronheads_large.html" onclick="return needThumbImgLink;">
+            <a href="content/keke-2_large.html" onclick="return needThumbImgLink;">
             <div style="margin-left:15px; margin-top:35px;">
-                                <img src="content/images/thumb/wateronheads.jpg" id="ID17536_thumb" alt="" class="thumb" />
+                                <img src="content/images/thumb/keke-2.jpg" id="ID497_thumb" alt="" class="thumb" />
                               </div>
             </a> </div>
                   <div class="clear">
@@ -123,7 +120,7 @@ cellColor="#949494";
 
   
   <div id="contact">
-          <a href="https://daniellefraboni-github-io-daniellefraboni.c9.io/people/"> <p
+          <a href=""> <p
         class="textColor" id="metadata.contactInfo.value">Danielle Shubert</p>
           </a>
       </div>

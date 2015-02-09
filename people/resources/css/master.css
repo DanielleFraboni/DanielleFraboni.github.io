@@ -4,12 +4,12 @@
 	padding:0;
 }
 body {
-	text-align:center;
+	/*text-align:center;*/
 	margin-left:0px;
 	margin-right:0px;
 	margin-top: 0px;
 	margin-bottom: 20px;
-	padding: 20px 0;
+	/*padding: 20px 0;*/
 }
 img {
 	border: 0;
@@ -17,13 +17,13 @@ img {
 /* TYPOGRAPHY */
 body, h1, h2, h3, h4, h5, h6, p, a {
 	background-color:inherit;
-	color: #b3b3b3;
-	font-size: 12px;
+	
+	/*font-size: 12px;*/
 	font-family: helvetica, arial, tahoma, verdana, sans-serif;
 }
 /* LINKS */
 a, a:link, a:hover {
-	text-decoration:underline;
+	/*text-decoration:underline;*/
 	color:inherit;
 	cursor:pointer;
 }
@@ -71,7 +71,8 @@ a:link a:visited a:hover, a:active {
 }
 #sitetitle h1 {
 	background-color:inherit;
-	font-size: 20px;
+	color: #000;
+	font-size: 50px;
 }
 /* COLLECTION HEADER */
 #collectionHeader {
