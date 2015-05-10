@@ -1,7 +1,7 @@
 <!DOCTYPE HTML>
 <html>
     <head>
-        <title>Danielle Shubert Photography"</title>
+        <title>Gallery</title>
         <link rel="stylesheet" href="css/custom.css" type="text/css" />
     </head>
     
@@ -9,16 +9,21 @@
         <div class="all-contents">
             <nav id="nav"></nav>
             <main>
-                <div class="centered">
-                    <img src="images/porches/porch-red-chair-ponchatoula-louisiana-porch.jpg" width="100%" height="100%">
+                <header id="galleryName"></header>
+                <div id="gallery">
+                    <div id="lightbox" style="display: none;"></div>
                 </div>
             </main>
         </div>
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+        <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-url-parser/2.3.1/purl.min.js"></script>
+        <script type="text/javascript" src="js/spin.min.js"></script>
+        <script type="text/javascript" src="js/gallery.js"></script>
         <script>
             $(document).ready(function() {
                 $("#nav").load("nav.html");
             });
         </script>
     </body>
+
 </html>

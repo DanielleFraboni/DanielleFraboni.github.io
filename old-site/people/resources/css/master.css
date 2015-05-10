@@ -53,7 +53,7 @@ a:link a:visited a:hover, a:active {
 #wrapper_large, #wrapper_thumb {
 	text-align:left;
 	width: 807px;
-	margin: 0 auto;
+	margin:auto;
 	padding-left: 10px;
 	padding-right: 10px;
 }
