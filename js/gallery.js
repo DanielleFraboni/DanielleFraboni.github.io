@@ -38,7 +38,7 @@ $(document).ready(function() {
     var fileextension = [".png", ".jpg"];
     
     $.ajax({
-        url: 'https://daniellefraboni.github.io/' + thumbnailsPath,
+        url: thumbnailsPath,
         success: function (data) {
             $(data).find("a:contains(" + (fileextension[0]) + "), a:contains(" + (fileextension[1]) + ")").each(function () {
                 filename = this.href.replace(window.location.host, "").replace("https:///", "");
