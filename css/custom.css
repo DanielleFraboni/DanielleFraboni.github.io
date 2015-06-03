@@ -10,7 +10,9 @@
  *******************************************************************************
  */
 @import url(//fonts.googleapis.com/css?family=Questrial);
-
+@import url(//fonts.googleapis.com/css?family=Julius+Sans+One);
+@import url(//fonts.googleapis.com/css?family=Nothing+You+Could+Do);
+@import url(//fonts.googleapis.com/css?family=Josefin+Sans:);
 
 body {
     background: rgb(255, 255, 255);
@@ -18,13 +20,16 @@ body {
     /*padding: 100px;*/
     
     font-family: 'Questrial', sans-serif;
+    font-family: 'Julius Sans One', sans-serif;
+    font-family: 'Nothing You Could Do', cursive;
 }
 header {
-    font-size: 2.5em;
+    font-size: 2em;
     font-weight: bold;
+    padding-right: 140px;
 }
 .nav-header {
-    font-size: 2em;
+    font-size: 2.5em;
 }
 
 [class=all-contents] {
@@ -43,7 +48,7 @@ header {
 nav {
     background: rgb(255, 255, 255);
     margin: 0 auto;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     display: flex;
     padding: 0px;
     border-radius: 5px;
@@ -68,40 +73,40 @@ nav a {
 
 /* gallery */
 
-#gallery {
-    padding: 0;
-    margin: 0;
-    list-style: none;
+/*#gallery {*/
+/*    padding: 0;*/
+/*    margin: 0;*/
+/*    list-style: none;*/
     
-    display: -webkit-box;
-    display: -moz-box;
-    display: -ms-flexbox;
-    display: -webkit-flex;
-    display: flex;
+/*    display: -webkit-box;*/
+/*    display: -moz-box;*/
+/*    display: -ms-flexbox;*/
+/*    display: -webkit-flex;*/
+/*    display: flex;*/
 
-    -webkit-flex-flow: row wrap;
-    justify-content: center;
-}
+/*    -webkit-flex-flow: row wrap;*/
+/*    justify-content: center;*/
+/*}*/
 
-.gallery-item {
-    margin: 10px;
+/*.gallery-item {*/
+/*    margin: 10px;*/
     
-}
+/*}*/
 
-#lightbox {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    position: fixed;
-    top: 0;
-    left: 0;
+/*#lightbox {*/
+/*    display: flex;*/
+/*    justify-content: center;*/
+/*    align-items: center;*/
+/*    position: fixed;*/
+/*    top: 0;*/
+/*    left: 0;*/
     /*background-color: rgba(102, 102, 102, 1);*/
-    background-color: rgba(51, 51, 51, 1);
+/*    background-color: rgba(51, 51, 51, 1);*/
     /*background-color: rgba(0, 0, 0, 1);*/
-    width: 100vw;
-    height: 100vh;
-}
+/*    width: 100vw;*/
+/*    height: 100vh;*/
+/*}*/
 
-#lightbox > img {
-    max-height: 80vh;
-}
+/*#lightbox > img {*/
+/*    max-height: 80vh;*/
+/*}*/
