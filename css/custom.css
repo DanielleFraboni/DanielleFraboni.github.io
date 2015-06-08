@@ -27,9 +27,11 @@ header {
     font-size: 2em;
     font-weight: bold;
     padding-right: 140px;
+    /*z-index: 100;*/
 }
 .nav-header {
     font-size: 2.5em;
+    z-index: 101;
 }
 
 [class=all-contents] {
@@ -52,6 +54,7 @@ nav {
     display: flex;
     padding: 0px;
     border-radius: 5px;
+    z-index: 102;
 }
 nav header {
     display: flex;
