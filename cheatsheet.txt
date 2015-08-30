@@ -1,0 +1,12 @@
+// TODO PUSH CHANGES TO GITHUB //
+1. git add -A
+2. git commit -m "update"
+3. git push
+
+// TO CREATE NEW GALLERY //
+1. Duplicate one of the slideshow-wtv.html files
+2. Replace all the images tags with images that have src attributes using paths to your new gallery's images
+3. Update your nav.html file to have a new list item (nav entry), like so:
+
+    <li><a href="slideshow-wtv.html">WTV</a></li>
+    
